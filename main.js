@@ -1,9 +1,32 @@
 // Array Of Words
 const words = [
-
   "Imc Talk",
   "Code",
-  "Town"
+  "Town",
+  "Algorithm",
+  "Innovation",
+  "Disruption",
+  "Prototype",
+  "Agile",
+  "Iteration",
+  "Canvas",
+  "Value Proposition",
+  "Customer Segments",
+  "Cost Structure",
+  "Revenue Streams",
+  "Pivot",
+  "Mindfulness",
+  "Breathing",
+  "Relaxation",
+  "Meditation",
+  "Exercise",
+  "Automation",
+  "Blockchain",
+  "SaaS",
+  "Cloud Computing",
+  "Business Model",
+  "Lean Startup",
+  "Stress Relief"
 ];
 
 // Setting Levels
