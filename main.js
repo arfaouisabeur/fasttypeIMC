@@ -32,7 +32,7 @@ const words = [
 // Setting Levels
 const lvls = {
   "Easy": 7,
-  "Normal": 10,
+  "Normal": 9,
   "Hard": 3
 };
 
